@@ -203,5 +203,5 @@ class TodoListItem extends React.Component {
   }
 }
 ```
-* Make it so that when your mouse hovers over a <li> of a GroceryListItem that it turns bold
+* Make it so that when your mouse hovers over a list element of a GroceryListItem that it turns bold
   
